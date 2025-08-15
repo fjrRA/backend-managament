@@ -41,23 +41,24 @@ CUSTOMER_PASSWORD=customer_password
 ---
 ---
 
-## 🚀 Instalasi & Menjalankan
-# 1. Clone repository
-git clone https://github.com/fjrRA/backend-managament.git
-cd backend-managament
+# 🚀 Instalasi & Menjalankan
+## 1. Clone repository
+`git clone https://github.com/fjrRA/backend-managament.git
+cd backend-managament`
 
-# 2. Install dependencies
-npm install
+## 2. Install dependencies
+`npm install`
 
-# 3. Generate Prisma Client
-npx prisma generate
+## 3. Generate Prisma Client
+`npx prisma generate`
 
-# 4. Jalankan migrasi database
-npx prisma migrate dev --name init
+## 4. Jalankan migrasi database
+`npx prisma migrate dev --name init`
 
-# 5. Jalankan seed data awal (admin, customer, produk)
-npm run seed
+## 5. Jalankan seed data awal (admin, customer, produk)
+`npm run seed`
 
-# 6. Jalankan server
-npm run dev
+## 6. Jalankan server
+`npm run dev`
+
 
