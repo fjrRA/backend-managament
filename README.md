@@ -2,16 +2,6 @@
 
 Sistem **Order Management API** sederhana menggunakan **Node.js (Express)**, **Prisma ORM**, dan **MySQL**.
 
-## 📌 Fitur
-- Login & Register (JWT Authentication)
-- CRUD Produk (Admin only)
-- Customer membuat pesanan, stok otomatis berkurang
-- Riwayat pesanan customer
-- Validasi input (Zod)
-- Error handling & role-based authorization
-
----
-
 ## 📂 Tech Stack
 - **Backend**: Node.js, Express
 - **ORM**: Prisma
@@ -60,5 +50,6 @@ cd backend-managament`
 
 ## 6. Jalankan server
 `npm run dev`
+
 
 
