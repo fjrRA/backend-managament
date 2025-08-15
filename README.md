@@ -41,7 +41,7 @@ CUSTOMER_PASSWORD=customer_password
 ---
 ---
 
-🚀 Instalasi & Menjalankan
+## 🚀 Instalasi & Menjalankan
 # 1. Clone repository
 git clone https://github.com/fjrRA/backend-managament.git
 cd backend-managament
@@ -60,3 +60,4 @@ npm run seed
 
 # 6. Jalankan server
 npm run dev
+
